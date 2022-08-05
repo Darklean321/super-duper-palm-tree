@@ -1,0 +1,7 @@
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\ExcelRebuild\ExcelRebuild\obj\Debug\net6.0\ExcelRebuild.csproj.AssemblyReference.cache
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\ExcelRebuild\ExcelRebuild\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\ExcelRebuild\ExcelRebuild\obj\Debug\net6.0\ExcelRebuild.csproj.ResolveComReference.cache
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\ExcelRebuild\ExcelRebuild\obj\Debug\net6.0\ExcelRebuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\ExcelRebuild\ExcelRebuild\obj\Debug\net6.0\ExcelRebuild.AssemblyInfoInputs.cache
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\ExcelRebuild\ExcelRebuild\obj\Debug\net6.0\ExcelRebuild.AssemblyInfo.cs
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\ExcelRebuild\ExcelRebuild\obj\Debug\net6.0\ExcelRebuild.csproj.CoreCompileInputs.cache
